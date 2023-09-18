@@ -2,7 +2,8 @@
 
 
 
-<h2>Featured Posts :</h2>
+<b>Featured Posts :</b>
+
 
 <script type="text/javascript">
 /*
